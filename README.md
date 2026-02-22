@@ -1,2 +1,4 @@
-# Restaurant-Data-Analysis-Project
-A Python-based data analysis project exploring restaurant data to uncover insights  on customer preferences, pricing distribution, city-wise performance, and service availability.
+# Restaurant-Data-Analysis-Project | Cognifyz Internship
+End-to-end restaurant data analysis using Python. Covers Level-1 and Level-2 tasks 
+including cuisine trends, city-wise performance, price range distribution, online delivery impact, 
+geographic clustering, and restaurant chain analysis with visual insights.
